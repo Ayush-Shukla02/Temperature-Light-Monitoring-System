@@ -6,7 +6,7 @@ The primary goal of this project is to create a temperature and light monitoring
 
 ## Components
 
--   Tiva Tiva TM4C123GH6PM Microcontroller
+-   Tiva TM4C123GH6PM Microcontroller
 -   Tools: IAR Embedded Workbench
 -   LM35 Temperature Sensor
 -   LDR (Light Dependent Resistor)
