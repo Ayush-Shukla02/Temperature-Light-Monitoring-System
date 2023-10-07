@@ -2,14 +2,14 @@
 
 ## Introduction
 
-The primary goal of this project is to create a temperature and light monitoring system. The program has been developed using a Tiva C Board and other sensor like LM35 and LDR. We have used voltage divider method for getting the LDR readings where one resistance is used as a reference resistance and LDR’s resistance is used to calculate the surrounding light level. The project uses VCC (5V), Ground, ADC PE3, PE2 and TIMER to accurately measure the data.
+The primary goal of this project is to create a temperature and light monitoring system. The program has been developed using a Tiva C Board and other sensor like LM35 and LDR. Voltage divider method is used for getting the LDR readings where one resistance is used as a reference resistance and LDR’s resistance is used to calculate the surrounding light level. The project uses VCC (5V), Ground, ADC PE3, PE2 and TIMER to accurately measure the data.
 
 ## Components
 
 -   Tiva Tiva TM4C123GH6PM Microcontroller
 -   Tools: IAR Embedded Workbench
 -   LM35 Temperature Sensor
--   LDR
+-   LDR (Light Dependent Resistor)
 -   Resistors
 
 ## Working
